@@ -9,9 +9,13 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
-            int Minutes = 2; 
-            int Minutes = 36;
-            Console.WriteLine("The time is {0} hours and {0} minutes exactly");
+            int minutes = 169;
+            Console.WriteLine("Hours: " + minutes / 60 + " Minutes: " + minutes % 60);
+            
+
+            
+            
+            
             
 
             

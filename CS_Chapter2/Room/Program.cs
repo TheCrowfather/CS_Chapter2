@@ -9,9 +9,14 @@ namespace Room
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("length {16}, width {20}");
-            Console.WriteLine(" 16*20=320");
-            Console.WriteLine("The area of the room is 320 square feet");
+            int length = 27;
+            int width = 13;
+
+            Console.WriteLine("Length: " + length +  " Width: " + width + " Area: " + length * width  );
+            Console.WriteLine("The room is 351 square feet");
+            
+            
+            
         }
     }
 }

@@ -9,10 +9,12 @@ namespace Yards
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("length {25} width {42}");
-            Console.WriteLine("25 * 42 = 1050/9 = 117 rounded from 116.6 repeating");
-            Console.WriteLine("It will cost $117 dollars to carpet the room");
-                
+            int length = 25;
+            int width = 42;
+            int cost = 1050 / 9;
+
+            Console.WriteLine("Length: " + length +  " Width: " + width + " Area: " + length * width + " Cost: " + cost  );
+            Console.WriteLine("The cost of the carpet is $" + cost);
         }
     }
 }
