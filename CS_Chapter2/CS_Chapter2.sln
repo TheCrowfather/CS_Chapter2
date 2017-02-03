@@ -1,17 +1,19 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleDecimalTest", "DoubleDecimalTest\DoubleDecimalTest.csproj", "{F1020577-5690-4C67-B9B3-3140D0700F32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room", "Room\Room.csproj", "{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room.cs", "Room\Room.cs.csproj", "{71FF3698-2DFE-4E48-AE21-84A0E76D3E3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "Carpet\Carpet.csproj", "{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet.cs", "Carpet\Carpet.cs.csproj", "{CC246E91-65B6-4B8D-A906-E3DEF0602FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yards", "Yards\Yards.csproj", "{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yards.cs", "Yards\Yards.cs.csproj", "{A8AA7A2F-1D91-4A21-BAAA-9F9FA0F5DD5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes", "HoursAndMinutes\HoursAndMinutes.csproj", "{60FDEEFF-1789-4C6B-8316-33FDA557071A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes.cs", "HoursAndMinutes\HoursAndMinutes.cs.csproj", "{60FDEEFF-1789-4C6B-8316-33FDA557071A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs", "Eggs\Eggs.csproj", "{97EFA880-FBF3-4518-904B-E3E2FC181793}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs.cs", "Eggs\Eggs.cs.csproj", "{97EFA880-FBF3-4518-904B-E3E2FC181793}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EggsInteractive", "EggsInteractive\EggsInteractive.csproj", "{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}"
 EndProject
