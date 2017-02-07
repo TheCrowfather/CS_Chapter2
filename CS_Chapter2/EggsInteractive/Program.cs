@@ -9,6 +9,12 @@ namespace EggsInteractive
     {
         static void Main(string[] args)
         {
+            string eggs, first, second, third, fourth;
+
+            Console.WriteLine("Enter the amount of eggs");
+            eggs = Console.ReadLine();
+
+
         }
     }
 }
