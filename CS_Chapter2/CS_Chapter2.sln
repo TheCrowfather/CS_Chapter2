@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes.cs", "Hours
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs.cs", "Eggs\Eggs.cs.csproj", "{97EFA880-FBF3-4518-904B-E3E2FC181793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EggsInteractive", "EggsInteractive\EggsInteractive.csproj", "{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EggsInteractive.cs", "EggsInteractive\EggsInteractive.cs.csproj", "{DF8DDF04-EEF4-4DB5-B6F6-3DE83459C131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
